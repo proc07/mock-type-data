@@ -7,46 +7,46 @@
 		false
 	],
 	"arrayNestedObjects": [{
-			id: 1,
-			title: "Post 1",
-			admin: true
+			"id": 1,
+			"title: "Post 1",
+			"admin": true
 		},
 		{
-			id: 2,
-			title: "Post 2",
+			"id: 2,
+			"title": "Post 2",
 			// admin: true
 		},
 		{
-			id: 3,
-			title: "Post 3",
-			admin: true
+			"id": 3,
+			"title": "Post 3",
+			"admin": true
 		},
 		{
-			id: "4",
-			title: "Post 3",
-			admin: true
+			"id": "4",
+			"title": "Post 3",
+			"admin": true
 		}
 	],
 	"plainObject": {
-		id: 1,
-		body: "some comment",
-		postId: 1
+		"id: 1,
+		"body": "some comment",
+		"postId": 1
 	},
 	"objectNestedArray": {
-		msg: "success",
-		data: [{
-				id: 1,
-				description: "",
-				isRole: true
+		"msg": "success",
+		"data": [{
+				"id": 1,
+				"description": "",
+				"isRole": true
 			},
 			null,
 			{
-				id: 3,
-				description: null,
-				isRole: false
+				"id": 3,
+				"description": null,
+				"isRole": false
 			},
 		],
-		code: 200
+		"code": 200
 	}
 
 }
