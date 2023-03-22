@@ -1,6 +1,6 @@
 {
 	"plainArray": [
-		'string',
+		"string",
 		1,
 		2,
 		true,
@@ -22,7 +22,7 @@
 			admin: true
 		},
 		{
-			id: '4',
+			id: "4",
 			title: "Post 3",
 			admin: true
 		}
@@ -33,10 +33,10 @@
 		postId: 1
 	},
 	"objectNestedArray": {
-		msg: 'success',
+		msg: "success",
 		data: [{
 				id: 1,
-				description: '',
+				description: "",
 				isRole: true
 			},
 			null,
