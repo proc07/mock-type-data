@@ -1,12 +1,7 @@
 {
-	"plainArray": [
-		"string",
-		1,
-		2,
-		true,
-		false
-	],
-	"arrayNestedObjects": [{
+ 	"plainArray": ["string",1,2,true,false],
+	"arrayNestedObjects": [
+		{
 			"id": 1,
 			"title": "Post 1",
 			"admin": true
