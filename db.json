@@ -26,6 +26,26 @@
 			"admin": true
 		}
 	],
-	
+	"plainObject": {
+		"id": 1,
+		"body": "some comment",
+		"postId": 1
+	},
+	"objectNestedArray": {
+		"msg": "success",
+		"data": [{
+				"id": 1,
+				"description": "",
+				"isRole": true
+			},
+			null,
+			{
+				"id": 3,
+				"description": null,
+				"isRole": false
+			},
+		],
+		"code": 200
+	}
 
 }
