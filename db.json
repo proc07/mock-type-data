@@ -1,12 +1,12 @@
 {
-	plainArray: [
+	"plainArray": [
 		'string',
 		1,
 		2,
 		true,
 		false
 	],
-	arrayNestedObjects: [{
+	"arrayNestedObjects": [{
 			id: 1,
 			title: "Post 1",
 			admin: true
@@ -27,12 +27,12 @@
 			admin: true
 		}
 	],
-	plainObject: {
+	"plainObject": {
 		id: 1,
 		body: "some comment",
 		postId: 1
 	},
-	objectNestedArray: {
+	"objectNestedArray": {
 		msg: 'success',
 		data: [{
 				id: 1,
