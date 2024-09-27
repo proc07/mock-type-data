@@ -1,0 +1,20 @@
+{
+  username: 'proc zhang',
+  region: 'guangzhou',
+  country: 'china',
+  codeRepo: [
+    {
+      name: 'runtime-generated-type',
+      url: 'https://github.com/proc07/runtime-generated-type',
+    },
+    {
+      name: 'GluttonousSnake',
+      url: 'https://github.com/proc07/GluttonousSnake',
+    },
+    {
+      name: 'code-picker',
+      url: 'https://github.com/proc07/code-picker',
+    }
+  ],
+  skills: ['html', 'css', 'canvas', 'javascript','typescript', 'vue', 'react', 'nodejs', 'php'],
+}
