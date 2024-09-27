@@ -43,7 +43,7 @@
    ],
    "code": 200
   },
-  "ssr-user": {
+  "ssrUser": {
 	  "username": "proc zhang",
 	  "region": "guangzhou",
 	  "country": "china",
